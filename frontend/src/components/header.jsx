@@ -19,7 +19,6 @@ const Header = () => {
           <span role="img" aria-label="banana" className="text-3xl animate-bounce">🍌</span>
           <h1 className="text-2xl font-bold text-white">
             Banana Mystery Challenge
-          </h1>
         </div>
 
         <nav className="flex space-x-6">
